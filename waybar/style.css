@@ -1,0 +1,20 @@
+* {
+	color: #39ff14;
+}
+
+#waybar {
+	background-color: rgba (0, 0, 0, 1);
+	font-family: "Inter", "JetBrains Mono", "Font Awesome 6 Free", "Font Awesome 6 Brands", sans-serif;
+font-size: 14px;
+}
+
+#clock {
+	background-color: transparent;
+}
+
+#cava {
+    padding: 0 10px;
+    color: #8be9fd; /* Change to your preferred hex color */
+    font-family: "YourMonospaceFont", "FontAwesome";
+    font-size: 16px;
+}

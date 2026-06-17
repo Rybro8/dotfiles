@@ -1,0 +1,2 @@
+[general]
+import = ["/usr/lib/node_modules/alacritty-themes/themes/Nightfly.toml"]
